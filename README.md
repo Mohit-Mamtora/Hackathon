@@ -2,7 +2,7 @@
 
 **ROAD SYMBOL DETECTION SOFTWARE IN VEHICLE**
 
-   We was introduce a new Offline device based on GPS to control the problem that are occurring through road signs and symbol.
+   We were introduce a new Offline device based on GPS to control the problem that are occurring through road signs and symbol.
 
    it will be a screen, which will flash upcoming road signs and symbol in vehicle only. So that the user have accurate knowledge about sign and symbol in advanced. The user will get notification of particular symbol until they passes from that symbol.
 
